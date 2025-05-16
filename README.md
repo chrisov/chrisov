@@ -51,9 +51,6 @@ Backend Developer Student
 
 <h2>🌐 Socials</h2>
 
-<a href="https://www.github.com/chrisov" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-</a>
 <a href="https://www.linkedin.com/in/dimitrios-chrysovergis" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
 </a>
