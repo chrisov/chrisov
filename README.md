@@ -21,6 +21,8 @@ Backend Developer Student
 *   🧠  I'm currently learning C++, by exploring the Object Oriented mindset with theoretical and practical based projects!
 
 
+![snake gif](https://github.com/chrisov/chrisov/blob/output/github-snake-dark.svg)
+
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
