@@ -3,8 +3,11 @@
   <img src="https://raw.githubusercontent.com/chrisov/chrisov/main/coffee-curly-bracket-icon-illustration-600nw-776844859.png" width="800" />
 </p>
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 # Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Dimitris
+
 
 Backend Developer Student
 -------------------------
@@ -12,16 +15,26 @@ Backend Developer Student
 💻 I enjoy learning new programming languages and tools to test my capabilities into applying my ideas.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I strongly believe that the tech world is full of amazing possibilities and potential applications.<br><br>
 💭 I always keep a constant learning and evolving mindset about new technologies, methodologies or concepts.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am driven to be part of a meaningful cause with the purpose of integrating technology into every day life, making it more comfortable and enhancing its quality.<br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am driven to be part of a meaningful cause with the purpose of integrating technology into every day life, making it more 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;comfortable and enhancing its quality.<br><br>
 👀 I am drawn by opportunities to integrate Computational Physics into real world solutions.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science and Technology go hand in hand, each one is vital for progressing both our theoretical knowledge and our practical applications, opening new possibilities for greatness!<br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science and Technology go hand in hand, each one is vital for progressing both our theoretical knowledge and our practical 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;applications, opening new possibilities for greatness!<br><br>
+<br>
 
 *   🌍  I'm based in Heilbronn, Germany
 *   ✉️  You can contact me at [j.chrisov@gmail.com](mailto:j.chrisov@gmail.com)
 *   🧠  I'm currently learning C++, by exploring the Object Oriented mindset with theoretical and practical based projects!
 
+<div align="center">
+
+&nbsp;
+&nbsp;
 
 ![snake gif](https://github.com/chrisov/chrisov/blob/output/github-snake-dark.svg)
+
+&nbsp;
+&nbsp;
 
 <table>
   <tr>
@@ -56,13 +69,21 @@ Backend Developer Student
 <a href="https://github.com/chrisov">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
+</td>
+  </tr>
+</table>
 
-<h2>🌐 Socials</h2>
+&nbsp;
+&nbsp;
 
 <a href="https://www.linkedin.com/in/dimitrios-chrysovergis" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:j.chrisov@gmail.com" target="_blank">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="32" height="32" alt="Email" />
+</a>
+</div>
 
-</td>
-  </tr>
-</table>
+
+
