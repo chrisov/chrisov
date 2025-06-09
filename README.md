@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chrisov/chrisov/main/coffee-curly-bracket-icon-illustration-600nw-776844859.png" width="800" />
+</p>
+
+
 # Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Dimitris
 
 Backend Developer Student
