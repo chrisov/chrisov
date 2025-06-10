@@ -30,6 +30,17 @@ Backend Developer Student
 &nbsp;
 &nbsp;
 
+<a href="https://www.linkedin.com/in/dimitrios-chrysovergis" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:j.chrisov@gmail.com" target="_blank">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="32" height="32" alt="Email" />
+</a>
+
+&nbsp;
+&nbsp;
+
 ![snake gif](https://github.com/chrisov/chrisov/blob/output/github-snake-dark.svg)
 
 &nbsp;
@@ -72,16 +83,6 @@ Backend Developer Student
   </tr>
 </table>
 
-&nbsp;
-&nbsp;
-
-<a href="https://www.linkedin.com/in/dimitrios-chrysovergis" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:j.chrisov@gmail.com" target="_blank">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="32" height="32" alt="Email" />
-</a>
 </div>
 
 
