@@ -23,7 +23,6 @@ Backend Developer Student
 <br>
 
 *   🌍  I'm based in Heilbronn, Germany
-*   ✉️  You can contact me at [j.chrisov@gmail.com](mailto:j.chrisov@gmail.com)
 *   🧠  I'm currently learning C++, by exploring the Object Oriented mindset with theoretical and practical based projects!
 
 <div align="center">
