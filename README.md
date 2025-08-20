@@ -13,7 +13,7 @@ Backend Developer Student
 
 💻 I enjoy learning new programming languages and tools to test my capabilities into applying my ideas.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I strongly believe that the tech world is full of amazing possibilities and potential applications.<br><br>
-💭 I always keep a constant learning and evolving mindset about new technologies, methodologies or concepts.<br>
+💭 I always keep a constant learning and evolving mindset about coding technologies, methodologies or concepts.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am driven to be part of a meaningful cause with the purpose of integrating technology into every day life, making it more 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;comfortable and enhancing its quality.<br><br>
 👀 I am drawn by opportunities to integrate Computational Physics into real world solutions.<br>
