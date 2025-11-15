@@ -8,7 +8,7 @@
 # Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Dimitris
 
 
-Backend Developer Student
+Software Developer Student
 -------------------------
 
 💻 I enjoy learning new programming languages and tools to test my capabilities into applying my ideas.<br>
